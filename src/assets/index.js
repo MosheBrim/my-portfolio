@@ -6,10 +6,12 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import profile from "./profile.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
+import mui from "./tech/mui.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -26,12 +28,16 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import codeclique from "./codeclique.png";
+import skywatch from "./skywatch.png"
+import myblog from "./myblog.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
   logo,
+  profile,
   backend,
   creator,
   mobile,
@@ -50,12 +56,16 @@ export {
   reactjs,
   redux,
   tailwind,
+  mui,
   typescript,
   threejs,
   meta,
   shopify,
   starbucks,
   tesla,
+  codeclique,
+  skywatch,
+  myblog,
   carrent,
   jobit,
   tripguide,
